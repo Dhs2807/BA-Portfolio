@@ -1,0 +1,12 @@
+1.JIRA - Requirement Gathering & tracking tool
+2.Microsoft Visio - Flowchart and Diagram creation
+3.Axure RP - Wireframing and Prototyping
+
+Optional Tools for wireframing
+1. Balsamiq
+2. Mockflow
+
+Data Visualization Tools
+Tableau
+Power BI
+SQL
